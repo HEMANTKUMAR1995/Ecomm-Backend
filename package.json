@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon server.js",
-    "start": "node server.js"
+    "server": "nodemon api/index.js",
+    "start": "node api/index.js"
   },
   "author": "HemantKumarS",
   "license": "ISC",
